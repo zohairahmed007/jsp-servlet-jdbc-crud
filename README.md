@@ -3,6 +3,8 @@
 This is a simple JSP Servlet JDBC CRUD example with MySQL.  
 It is designed as a complete beginner-friendly tutorial project to help you learn how to build a Java web application using Servlets, JSP, and direct JDBC calls without any frameworks.
 
+![App Preview](preview.png)
+
 ## Features
 
 - Connects to MySQL database using JDBC  
